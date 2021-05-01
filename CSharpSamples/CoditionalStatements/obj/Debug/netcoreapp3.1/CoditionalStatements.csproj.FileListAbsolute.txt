@@ -1,0 +1,13 @@
+F:\CSharp\CSharpSamples\CoditionalStatements\bin\Debug\netcoreapp3.1\CoditionalStatements.exe
+F:\CSharp\CSharpSamples\CoditionalStatements\bin\Debug\netcoreapp3.1\CoditionalStatements.deps.json
+F:\CSharp\CSharpSamples\CoditionalStatements\bin\Debug\netcoreapp3.1\CoditionalStatements.runtimeconfig.json
+F:\CSharp\CSharpSamples\CoditionalStatements\bin\Debug\netcoreapp3.1\CoditionalStatements.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\CoditionalStatements\bin\Debug\netcoreapp3.1\CoditionalStatements.dll
+F:\CSharp\CSharpSamples\CoditionalStatements\bin\Debug\netcoreapp3.1\CoditionalStatements.pdb
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.dll
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.pdb
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.genruntimeconfig.cache
+F:\CSharp\CSharpSamples\CoditionalStatements\obj\Debug\netcoreapp3.1\CoditionalStatements.csprojAssemblyReference.cache

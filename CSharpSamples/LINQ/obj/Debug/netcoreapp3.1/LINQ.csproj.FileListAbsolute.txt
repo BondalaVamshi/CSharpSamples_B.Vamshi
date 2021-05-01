@@ -1,0 +1,14 @@
+F:\CSharp\CSharpSamples\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+F:\CSharp\CSharpSamples\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+F:\CSharp\CSharpSamples\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+F:\CSharp\CSharpSamples\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+F:\CSharp\CSharpSamples\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.Form1.resources
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.GenerateResource.cache
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+F:\CSharp\CSharpSamples\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

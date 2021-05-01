@@ -1,0 +1,13 @@
+F:\CSharp\CSharpSamples\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+F:\CSharp\CSharpSamples\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+F:\CSharp\CSharpSamples\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+F:\CSharp\CSharpSamples\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+F:\CSharp\CSharpSamples\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
+F:\CSharp\CSharpSamples\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\CSharp\CSharpSamples\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.exe
+F:\CSharp\CSharpSamples\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.deps.json
+F:\CSharp\CSharpSamples\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.runtimeconfig.json
+F:\CSharp\CSharpSamples\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.dll
+F:\CSharp\CSharpSamples\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.pdb
+F:\CSharp\CSharpSamples\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.dll
+F:\CSharp\CSharpSamples\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.pdb
+F:\CSharp\CSharpSamples\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.genruntimeconfig.cache

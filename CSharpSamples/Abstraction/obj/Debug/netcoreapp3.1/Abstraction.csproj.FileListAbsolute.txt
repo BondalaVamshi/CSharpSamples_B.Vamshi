@@ -1,0 +1,12 @@
+F:\CSharp\CSharpSamples\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+F:\CSharp\CSharpSamples\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+F:\CSharp\CSharpSamples\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+F:\CSharp\CSharpSamples\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+F:\CSharp\CSharpSamples\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+F:\CSharp\CSharpSamples\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+F:\CSharp\CSharpSamples\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+F:\CSharp\CSharpSamples\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache

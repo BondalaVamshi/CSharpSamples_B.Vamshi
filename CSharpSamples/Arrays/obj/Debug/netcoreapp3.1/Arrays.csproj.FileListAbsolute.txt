@@ -1,0 +1,12 @@
+F:\CSharp\CSharpSamples\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+F:\CSharp\CSharpSamples\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+F:\CSharp\CSharpSamples\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+F:\CSharp\CSharpSamples\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+F:\CSharp\CSharpSamples\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+F:\CSharp\CSharpSamples\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+F:\CSharp\CSharpSamples\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+F:\CSharp\CSharpSamples\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

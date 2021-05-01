@@ -1,0 +1,12 @@
+F:\CSharp\CSharpSamples\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.exe
+F:\CSharp\CSharpSamples\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.deps.json
+F:\CSharp\CSharpSamples\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.runtimeconfig.json
+F:\CSharp\CSharpSamples\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.dll
+F:\CSharp\CSharpSamples\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.pdb
+F:\CSharp\CSharpSamples\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.dll
+F:\CSharp\CSharpSamples\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.pdb
+F:\CSharp\CSharpSamples\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.genruntimeconfig.cache

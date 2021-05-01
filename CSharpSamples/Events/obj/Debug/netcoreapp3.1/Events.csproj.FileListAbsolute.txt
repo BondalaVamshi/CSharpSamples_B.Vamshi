@@ -1,0 +1,15 @@
+F:\CSharp\CSharpSamples\Events\bin\Debug\netcoreapp3.1\Events.exe
+F:\CSharp\CSharpSamples\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+F:\CSharp\CSharpSamples\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+F:\CSharp\CSharpSamples\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\Events\bin\Debug\netcoreapp3.1\Events.dll
+F:\CSharp\CSharpSamples\Events\bin\Debug\netcoreapp3.1\Events.pdb
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.Form1.resources
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.csproj.GenerateResource.cache
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.dll
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.pdb
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
+F:\CSharp\CSharpSamples\Events\obj\Debug\netcoreapp3.1\Events.Form2.resources

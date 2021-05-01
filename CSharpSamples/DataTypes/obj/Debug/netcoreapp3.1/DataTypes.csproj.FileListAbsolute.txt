@@ -1,0 +1,13 @@
+F:\CSharp\CSharpSamples\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+F:\CSharp\CSharpSamples\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+F:\CSharp\CSharpSamples\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+F:\CSharp\CSharpSamples\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+F:\CSharp\CSharpSamples\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+F:\CSharp\CSharpSamples\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\CSharp\CSharpSamples\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.exe
+F:\CSharp\CSharpSamples\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.deps.json
+F:\CSharp\CSharpSamples\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.runtimeconfig.json
+F:\CSharp\CSharpSamples\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.runtimeconfig.dev.json
+F:\CSharp\CSharpSamples\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.dll
+F:\CSharp\CSharpSamples\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.pdb
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfoInputs.cache
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfo.cs
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.dll
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.pdb
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.genruntimeconfig.cache
+F:\CSharp\CSharpSamples\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.csprojAssemblyReference.cache
